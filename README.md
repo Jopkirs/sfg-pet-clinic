@@ -1,4 +1,3 @@
-# Spring Framework Guru Pet Clinic
 
 [![CircleCI](https://circleci.com/gh/Jopkirs/sfg-pet-clinic/tree/my_development.svg?style=svg)](https://circleci.com/gh/Jopkirs/sfg-pet-clinic/tree/my_development)
 
